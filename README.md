@@ -18,6 +18,9 @@ Here is a brief overview of the project files:
 - `unload_module.sh`: A script to remove the kernel module from the running kernel.
 - `view_kernel_log.sh`: A script to view the kernel log messages related to the module.
 
+## Sequence Diagram
+![Sequence Diagram](/sequence_diagram.png)
+
 ## Installation
 
 Before proceeding, ensure that you have the necessary packages for building kernel modules:
